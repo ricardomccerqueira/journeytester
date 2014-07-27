@@ -1,0 +1,16 @@
+{
+  "name": "journeytester",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardomccerqueira/journeytester.git"
+  },
+  "description": "journey tester script to make sure a user journey on a website is all up and running",
+  "author": "Ricardo Cerqueira - www.rcerqueira.com",
+  "license": "NONE",
+  "devDependencies": {},
+  "dependencies": {
+    "phantomjs": "^1.9.7-15",
+    "gulp-watch": "^0.6.8"
+  }
+}
